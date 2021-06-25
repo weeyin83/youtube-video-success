@@ -8,6 +8,8 @@ I also always include a recommendation to another video that is related to the o
 
 ## Timestamps
 
+![Example timestamps](https://github.com/weeyin83/youtube-video-success/blob/main/images/youtube-timesections.PNG){width=50%}
+
 Timestamps are a quick and easy thing you can do to help your viewer find the part of the video they are interested in or understand what is going to happen in the video.  For them to work you need to start off with a time stamp for 0:00 and then add a title or description.  An example would be: 
 
 0:00 - Introduction</br>
