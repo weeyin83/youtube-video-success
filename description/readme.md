@@ -14,9 +14,9 @@ Timestamps are a quick and easy thing you can do to help your viewer find the pa
 0:20 - What does an IT department look like?</br>
 4:08 - Terminology: On Prem and Cloud</br>
 9:50 - My career</br>
-16:16 - My role as a Cloud Advocate
-17:44 - Working at Microsoft
-20:50 - Do you need a degree?
+16:16 - My role as a Cloud Advocate</br>
+17:44 - Working at Microsoft</br>
+20:50 - Do you need a degree?</br>
 
 ## Hashtags
 
