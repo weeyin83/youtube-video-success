@@ -4,16 +4,17 @@ A lot of effort and time goes into creating videos on YouTube, ensure you maximi
 
 | Number | Task|
 |-----|-------------------|
-|1| Tip number 1 |
-|1| Tip number 1 |
-|1| Tip number 1 |
-|1| Tip number 1 |
-|1| Tip number 1 |
+|[1](thumbnails/readme.md)| Thumbnails |
+|[2](endcards/readme.md)| End Cards |
+|[3](cards/readme.md)| Cards |
+|[4](tags/readme.md)| Tags |
+|[5](description/readme.md)| Description |
+
 
 
 ## Questions
 
-[Tweet e](https://twitter.com/techielass) or Add an issue to this repo :)
+[Tweet me](https://twitter.com/techielass) or Add an issue to this repo :)
 
 ## Okay, go get started
 
