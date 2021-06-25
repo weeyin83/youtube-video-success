@@ -1,4 +1,5 @@
 # Tags
+![Video Tags](https://github.com/weeyin83/youtube-video-success/blob/main/images/youtubetags.png)
 
 Tags help people find your videos. When they are searching for videos to watch on YouTube the search algorithm will use a number of things to help display videos to them.  Once of the things it will use is Tags. 
 
