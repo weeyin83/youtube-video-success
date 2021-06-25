@@ -7,8 +7,8 @@ A lot of effort and time goes into creating videos on YouTube, ensure you maximi
 |[1](thumbnails/readme.md)| Thumbnails |
 |[2](tags/readme.md)| Tags |
 |[3](description/readme.md)| Description |
-|[4](description/readme.md#L9)| Timestamps |
-|[5](description/readme.md#L11) Hashtags |
+|[4](description/readme.md#timestamps)| Timestamps |
+|[5](description/readme.md#hashtags) | Hashtags |
 |[6](cards/readme.md)| Cards |
 |[7](endcards/readme.md)| End Cards |
 

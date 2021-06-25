@@ -8,6 +8,18 @@ I also always include a recommendation to another video that is related to the o
 
 ## Timestamps
 
+Timestamps are a quick and easy thing you can do to help your viewer find the part of the video they are interested in or understand what is going to happen in the video.  For them to work you need to start off with a time stamp for 0:00 and then add a title or description.  An example would be: 
+
+0:00 - Introduction
+0:20 - What does an IT department look like?
+4:08 - Terminology: On Prem and Cloud
+9:50 - My career
+16:16 - My role as a Cloud Advocate
+17:44 - Working at Microsoft
+20:50 - Do you need a degree?
+
 ## Hashtags
+
+Hashtags are another thing you can add in your description field to help make your videos more discoverable.  These will also show just under your video, three is the maximum you should use. 
 
 #### [Go Back to Table of Contents](https://github.com/weeyin83/youtube-video-success/blob/main/README.md)
