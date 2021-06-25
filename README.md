@@ -17,5 +17,3 @@ A lot of effort and time goes into creating videos on YouTube, ensure you maximi
 [Tweet me](https://twitter.com/techielass) or Add an issue to this repo :)
 
 ## Okay, go get started
-
-[Start here](start-here/README.md)
