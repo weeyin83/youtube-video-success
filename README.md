@@ -4,16 +4,16 @@ A lot of effort and time goes into creating videos on YouTube, ensure you maximi
 
 | Number | Task|
 |-----|-------------------|
-|[1](thumbnails/readme.md)| Thumbnails |
-|[2](tags/readme.md)| Tags |
-|[3](description/readme.md)| Description |
-|[4](description/readme.md#timestamps)| Timestamps |
-|[5](description/readme.md#hashtags) | Hashtags |
-|[6](cards/readme.md)| Cards |
-|[7](endcards/readme.md)| End Cards |
+|[1](thumbnails/readme.md)| [Thumbnails](thumbnails/readme.md) |
+|[2](tags/readme.md)| [Tags](tags/readme.md) |
+|[3](description/readme.md)| [Description](tags/readme.md) |
+|[4](description/readme.md#timestamps)| [Timestamps](description/readme.md#timestamps) |
+|[5](description/readme.md#hashtags) | [Hashtags](description/readme.md#hashtags) |
+|[6](cards/readme.md)| [Cards](cards/readme.md) |
+|[7](endcards/readme.md)| [End Cards](endcards/readme.md) |
 
 ## Questions
 
-[Tweet me](https://twitter.com/techielass) or Add an issue to this repo :)
+[Tweet me](https://twitter.com/techielass) or add an issue to this repo 😊
 
-## Okay, go get started
+## Okay, go get started! 😉
