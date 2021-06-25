@@ -13,3 +13,6 @@ You have to grab their attention, you have to intrigue them enough with your thu
 - **Don't** use small fonts
 - **Don't** put anything in the bottom right hand corner, a time stamp is often displayed there by YouTube so don't hide information in that corner of your thumbnail
 - **Don't** make all your thumbnails the same, if your thumbnails are all the same a viewer might say "I've seen that video" and skip over it because they've watched a previous video with a similar thumbnail
+
+
+#### [Go Back to Table of Contents](https://github.com/weeyin83/youtube-video-success/blob/main/README.md)
